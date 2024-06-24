@@ -1,13 +1,13 @@
 {
-  "name": "xotocode-theme",
-  "displayName": "xotocode-theme",
+  "name": "xotocode-vscode-theme",
+  "displayName": "xotocode-vscode-theme",
   "description": "A VS Code theme with github and moonlight in mind",
   "version": "0.0.9",
   "publisher": "xotosphere",
   "license": "SEE LICENSE IN LICENSE .md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/xotocode/xotocode-theme"
+    "url": "https://github.com/xotocode/xotocode-vscode-theme"
   },
   "keywords": [
     "Theme"  
